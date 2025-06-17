@@ -9,7 +9,7 @@ I'm a 18-year-old Python developer and machine learning enthusiast and Game Deve
 CONNECT with ME = jareerfootball7@gmail.com
 
 ## 🚀 What I'm Working On
-- 📊 Learning data science with Pandas & scikit-learn
+- 📊 Learning advance data science with Pandas & scikit-learn
 - 🌐 Planning to deploy my projects to the web
 - Creating a 2D platformer game
 
