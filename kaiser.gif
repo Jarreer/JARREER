@@ -1,0 +1,3 @@
+git add assets/kaiser.gif
+git commit -m "Add kaiser gif to assets folder"
+git push origin main
