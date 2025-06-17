@@ -1,6 +1,12 @@
-# 👋 Hi, I'm Jarreer
+<p align="center">
+  <img src="https://github.com/Jarreer/Jarreer/blob/main/kaiser.gif.gif?raw=true" alt="Michael Kaiser - Blue Lock" width="350"/>
+</p>
+ 
+ 👋 Hi, I am Jarreer Sheikh
 
 I'm a 18-year-old Python developer and machine learning enthusiast and Game Developer along with c# expert from Pakistan 🇵🇰.
+
+CONNECT with ME = jareerfootball7@gmail.com
 
 ## 🚀 What I'm Working On
 - 📊 Learning data science with Pandas & scikit-learn
