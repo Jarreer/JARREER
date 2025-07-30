@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace the src below with your actual GIF URL after uploading to GitHub or a hosting service -->
-  <img src="https://github.com/Jarreer/Jarreer/blob/main/kaiser.gif" width="400" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.4);" alt="Kaiser GIF" />
+  <img src="https://github.com/Jarreer/Jarreer/blob/main/kaiser.gif.gif" width="400" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.4);" alt="Kaiser GIF" />
   
   <!-- Alternative: If you upload to Imgur or another hosting service, use that URL instead -->
   <!-- <img src="https://i.imgur.com/YOUR_IMAGE_ID.gif" width="400" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.4);" alt="Kaiser GIF" /> -->
