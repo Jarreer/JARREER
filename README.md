@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <h1 style="color: #ffffff; font-size: 3rem; font-weight: 700; margin-bottom: 10px; text-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">Hi 👋, I'm Muhammad Jarreer</h1>
+  <h1 style="color: #ffffff; font-size: 3rem; font-weight: 700; margin-bottom: 10px; text-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">Hi , I'm Muhammad Jarreer</h1>
   <h2 style="color: #00d4ff; font-size: 1.5rem; font-weight: 600; margin-bottom: 20px;">AI Engineer | Python Developer | NLP & Streamlit Specialist</h2>
   <p style="color: #8b949e; font-size: 1.1rem; margin-bottom: 30px;">Building intelligent tools to enhance real-world productivity</p>
 </div>
