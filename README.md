@@ -1,5 +1,9 @@
 <div align="center">
-  <h1 style="color: #ffffff; font-size: 3rem; font-weight: 700; margin-bottom: 10px;">Hi 👋, I'm Muhammad Jarreer</h1>
+  <img src="C:\Users\DELL\Downloads\kaiser.gif.gif" width="400" style="border-radius: 15px; margin-bottom: 20px; box-shadow: 0 8px 32px rgba(0, 212, 255, 0.4);" />
+</div>
+
+<div align="center">
+  <h1 style="color: #ffffff; font-size: 3rem; font-weight: 700; margin-bottom: 10px; text-shadow: 0 0 20px rgba(0, 212, 255, 0.5);">Hi 👋, I'm Muhammad Jarreer</h1>
   <h2 style="color: #00d4ff; font-size: 1.5rem; font-weight: 600; margin-bottom: 20px;">AI Engineer | Python Developer | NLP & Streamlit Specialist</h2>
   <p style="color: #8b949e; font-size: 1.1rem; margin-bottom: 30px;">Building intelligent tools to enhance real-world productivity</p>
 </div>
@@ -13,6 +17,22 @@
 <div align="center">
   <h2 style="color: #ffffff; font-size: 2rem; margin: 30px 0;">🚀 AI Engineer & Full-Stack Developer</h2>
   <p style="color: #8b949e; font-size: 1.2rem; max-width: 800px; margin: 0 auto;">Transforming ideas into intelligent solutions through cutting-edge AI and modern web technologies</p>
+</div>
+
+---
+
+## 🎯 **Quick Links**
+
+<div align="center">
+  <a href="https://jarreer.github.io/portfolio/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/🔗_View_My_Portfolio-00d4ff?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" style="transition: transform 0.3s ease;"/>
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-jarreer-2a63a3372/" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="transition: transform 0.3s ease;"/>
+  </a>
+  <a href="mailto:jareerfootball7@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" style="transition: transform 0.3s ease;"/>
+  </a>
 </div>
 
 ---
@@ -101,7 +121,7 @@
 <div align="center">
   <table style="width: 100%; border-collapse: collapse; margin: 20px 0;">
     <tr>
-      <td width="33%" style="padding: 20px; vertical-align: top; border: 1px solid #30363d; border-radius: 10px; margin: 10px;">
+      <td width="33%" style="padding: 20px; vertical-align: top; border: 1px solid #30363d; border-radius: 10px; margin: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
         <h3 style="color: #00d4ff; font-size: 1.4rem; margin-bottom: 10px;">🎤 English Analyzer Pro</h3>
         <img src="https://img.shields.io/badge/Status-Coming_Soon-blue?style=for-the-badge" alt="Status"/>
         <p style="color: #8b949e; font-style: italic; margin: 10px 0;">Real-time spoken English evaluator with AI-powered feedback</p>
@@ -115,7 +135,7 @@
           <img src="https://img.shields.io/badge/View_Project-000000?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
         </a>
       </td>
-      <td width="33%" style="padding: 20px; vertical-align: top; border: 1px solid #30363d; border-radius: 10px; margin: 10px;">
+      <td width="33%" style="padding: 20px; vertical-align: top; border: 1px solid #30363d; border-radius: 10px; margin: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
         <h3 style="color: #00d4ff; font-size: 1.4rem; margin-bottom: 10px;">🏠 Karachi House Price Predictor</h3>
         <img src="https://img.shields.io/badge/Status-Live-green?style=for-the-badge" alt="Status"/>
         <p style="color: #8b949e; font-style: italic; margin: 10px 0;">ML-powered housing price prediction for Karachi market</p>
@@ -129,7 +149,7 @@
           <img src="https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo"/>
         </a>
       </td>
-      <td width="33%" style="padding: 20px; vertical-align: top; border: 1px solid #30363d; border-radius: 10px; margin: 10px;">
+      <td width="33%" style="padding: 20px; vertical-align: top; border: 1px solid #30363d; border-radius: 10px; margin: 10px; transition: transform 0.3s ease, box-shadow 0.3s ease;">
         <h3 style="color: #00d4ff; font-size: 1.4rem; margin-bottom: 10px;">📄 Smart Resume Screener</h3>
         <img src="https://img.shields.io/badge/Status-Live-green?style=for-the-badge" alt="Status"/>
         <p style="color: #8b949e; font-style: italic; margin: 10px 0;">AI-based resume evaluation and optimization tool</p>
